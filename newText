@@ -2,3 +2,9 @@
 创建文件，创建master分支，实现协同：通过创建团队方式来实现协同
 
 DOShooting用户实现文件拉取、修改、commit、push等操作;
+
+实践：参考 liuhaoDo/tempOrgFor/tempResFor
+			1.建立 liuhaoDo账户(@163.com)-tempOrgFor(组织)
+			2.建立tempResFor(仓库)
+			3.建立team，将协同人员加入到新的团队中，
+			4.在仓库中拉取新建的团队，将团队的权限设置一下。
